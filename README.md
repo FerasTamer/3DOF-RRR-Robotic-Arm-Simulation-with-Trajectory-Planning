@@ -1,0 +1,2 @@
+# 3DOF-RRR-Robotic-Arm-Simulation-with-Trajectory-Planning
+A Python simulation of a 3-degree-of-freedom Revolute-Revolute-Revolute (RRR) robotic arm featuring:  Quintic trajectory planning for smooth motion Inverse kinematics solution Real-time 3D visualization with multiple views (3D, top, front, side) Motion profile analysis (position, velocity, acceleration, jerk) Animation capabilities with Matplotlib
