@@ -1,6 +1,6 @@
 # 3DOF RRR Robotic Arm Simulation  
 
-![Robot Arm Visualization](assets/arm_demo.gif) *(Example visualization placeholder)*  
+![https://drive.google.com/file/d/1t7JWc77QCXnbOf4tdS9dqwSfDucFtXPx/view?usp=drive_link) *(Example visualization placeholder)*  
 
 ## Features  
 - **3D Visualization**: Interactive 3D plot with multiple viewing angles  
